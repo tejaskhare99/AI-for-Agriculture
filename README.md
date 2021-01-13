@@ -1,7 +1,7 @@
 # AI-for-Agriculture
 ## A research to propose a solution for a common problem faced by farmers across the world.
 
-The problem in a nutshell - Trespassing of wild animals over the crop fields 
+The problem in a nutshell - Trespassing of wild animals over the crop fields<br/> 
 Proposed Solution - Using object detection and a novel algorithm to prevent the trespassing with high cost efficiency in the long run
 
 ***Abstract*** 
