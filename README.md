@@ -1,6 +1,8 @@
 # AI-for-Agriculture
-## A research to propose a solution for a common problem face by farmers across the world
+## A research to propose a solution for a common problem faced by farmers across the world.
 
+The problem in a nutshell - Trespassing of wild animals over the crop fields 
+Proposed Solution - Using object detection and a novel algorithm to prevent the trespassing with high cost efficiency in the long run
 
 ***Abstract*** 
 
@@ -11,3 +13,4 @@ Artificial Intelligence is everywhere today. But unfortunately, Agriculture has 
 
 1. Paper link to [Conference Proceedings](https://ieeexplore.ieee.org/document/9278072)
 2. Paper link to [Open Access at ResearchGate](https://www.researchgate.net/publication/347445008_Automated_Crop_Field_Surveillance_Using_Computer_Vision)
+
